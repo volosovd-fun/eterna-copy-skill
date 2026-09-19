@@ -17,7 +17,7 @@
 | Поле | Ліміт | Правило Eterna |
 |---|---|---|
 | Primary text | видно ~125 знаків до «ще», далі згортається | перше речення — користь/факт; уся суть — до згину; далі 2–4 короткі речення; без емодзі, галочок, CAPS |
-| Headline | ~40 знаків (обрізається на ~27 у частині плейсментів) | один факт: `Engraved to order. From $60.` / `Гравіювання — два робочі дні` |
+| Headline | ~40 знаків (обрізається на ~27 у частині плейсментів) | один факт: `Engraved to order. From $60.` / `Гравіювання — три робочі дні` |
 | Description | ~30 знаків, показується не скрізь | другий факт, не повтор headline: `Mock-up before engraving` |
 | Кнопка | системна | Shop now / Learn more — не дублювати текстом «дізнайтесь більше на сайті» |
 
@@ -25,7 +25,7 @@
 
 **Приклад, EN, гравіювання:**
 > Your name on the frame, in the same lettering as ours.
-> Engraved to order: a name, initials or a date, up to 15 characters. A mock-up follows by email — nothing is engraved until you approve it. Two working days. From $60.
+> Engraved to order: a name, initials or a date, up to 15 characters. A mock-up follows by email — nothing is engraved until you approve it. Three working days. From $60.
 > Complimentary delivery, duties and taxes included.
 Headline `Engraved to order. From $60.` · Description `Mock-up before engraving`
 
@@ -37,9 +37,9 @@ Headline `Bel Air Green · карбон 12K` · Description `Гарантія 2 
 
 **Приклад, EN, подарунок (сценарій):**
 > A racket for the partner who never misses Tuesday.
-> Bel Air Green, 12K carbon, with their name engraved on the frame. We email the mock-up before we engrave, so the spelling is yours to confirm. Gift box in hunter green with a signed card — $120.
-> Two working days, then on its way. Delivery on us.
-Headline `Their name on the frame` · Description `Gift box with a signed card`
+> Bel Air Green, 12K carbon, with their name engraved on the frame. We email the mock-up before we engrave, so the spelling is yours to confirm. Gift box in hunter green, velvet ribbon, your message inside — $120.
+> Three working days, then on its way. Delivery on us.
+Headline `Their name on the frame` · Description `Gift box with your message inside`
 
 ## 2. Google Ads — пошукові RSA
 
@@ -50,10 +50,10 @@ Headline `Their name on the frame` · Description `Gift box with a signed card`
 | Sitelinks | 25 / 35 / 35 | назва сторінки + факт |
 | Callouts | 25 | тільки факти-умови |
 
-**Патерн бренду «без води»:** кожен рядок називає атрибут товару (карбон 3K/12K/18K, матовий/глянцевий, Bel Air/Soho/…, Old Money як категорія стилю, гравіювання/4 зони/ескіз/2 робочі дні/коробка, доставка/гарантія/повернення). Рядок без атрибута — під заміну. Еталон знятого: «Точний контроль», «Природний баланс», «Створено без поспіху», «Тиха розкіш на корті», «Елегантність у деталях».
+**Патерн бренду «без води»:** кожен рядок називає атрибут товару (карбон 3K/12K/18K, матовий/глянцевий, Bel Air/Soho/…, Old Money як категорія стилю, гравіювання/4 зони/ескіз/3 робочі дні/коробка, доставка/гарантія/повернення). Рядок без атрибута — під заміну. Еталон знятого: «Точний контроль», «Природний баланс», «Створено без поспіху», «Тиха розкіш на корті», «Елегантність у деталях».
 
 **Затверджені брендом зразки (UA, 08.08.2026):**
-H: `Ракетки для паделу з карбону` · `Карбон 3K, 12K і 18K` · `Матове і глянцеве покриття` · `Чотири зони гравіювання` · `Ескіз перед гравіюванням` · `Гравіювання — два робочі дні` · `Подарункова коробка` · `Гарантія 2 роки`
+H: `Ракетки для паделу з карбону` · `Карбон 3K, 12K і 18K` · `Матове і глянцеве покриття` · `Чотири зони гравіювання` · `Ескіз перед гравіюванням` · `Гравіювання — три робочі дні` · `Подарункова коробка` · `Гарантія 2 роки`
 D: `Карбон 3K, 12K і 18K у стриманій естетиці Old Money. Гравіювання і подарункова коробка.` · `Ім'я, дата чи монограма — лазером на ракетці. Чотири зони гравіювання на вибір.`
 
 ⛔ У групі про гравіювання/подарунки — жодного «Повернення 14 днів» (гравійовані не повертаються).
@@ -78,7 +78,7 @@ D: `Карбон 3K, 12K і 18K у стриманій естетиці Old Money
 
 ## 4. Email (Klaviyo) — розсилка
 
-- Тема: до 50 знаків, факт, без «!» і CAPS: `Bel Air Green — now in gloss.` / `Гравіювання: два робочі дні.`
+- Тема: до 50 знаків, факт, без «!» і CAPS: `Bel Air Green — now in gloss.` / `Гравіювання: три робочі дні.`
 - Прехедер: другий факт, не повтор теми.
 - Тіло: заголовок з крапкою → 1 абзац суті (3–4 речення) → 1 факт-умова → одна кнопка. Без «ми раді повідомити», без «дорогі друзі».
 - Одне повідомлення на лист. Два товари — два листи.

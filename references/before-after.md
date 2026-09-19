@@ -46,7 +46,7 @@
 **Діагноз**
 - «Wywołuje emocje», «podaruj emocje od pierwszej sekundy» — абстракція, яку неможливо уявити. Емоцію не називають — її показують сценою. (3, 8)
 - «Podaruj nie tylko rakietę — podaruj…» — штамп «не просто X, а Y». (6)
-- «Osobistą wiadomość na opakowaniu» — на коробці немає напису; це вигаданий факт. Є підписана картка всередині. (7)
+- «Osobistą wiadomość na opakowaniu» — зовні на коробці напису немає; побажання покупця друкуємо всередині коробки. (7)
 - Одне речення на 30 слів із трьома діями. (4)
 - «Dowiedz się więcej na naszej stronie» — порожній CTA. (9)
 
@@ -72,7 +72,7 @@
 
 **Стало**
 > Ракетка з вашим іменем.
-> Bel Air, Soho або Tribeca — карбон 12K чи 18K, лазерне гравіювання імені, дати чи монограми. Ескіз надсилаємо на пошту після замовлення і гравіюємо лише після вашого «так» — плюс два робочі дні. Подарункова коробка hunter green з підписаною карткою — окремо.
+> Bel Air, Soho або Tribeca — карбон 12K чи 18K, лазерне гравіювання імені, дати чи монограми. Ескіз надсилаємо на пошту після замовлення і гравіюємо лише після вашого «так» — плюс три робочі дні. Подарункова коробка hunter green з оксамитовою стрічкою і Вашим побажанням усередині — окремо.
 > Доставка по Україні безкоштовна. Пишіть — допоможемо обрати модель під його гру.
 
 ---
@@ -124,14 +124,14 @@
 
 **Стало**
 > Your name on the frame, in the same lettering as ours.
-> Engraved to order: a name, initials or a date, up to 15 characters, along the top of the frame. After checkout a mock-up follows by email — nothing is engraved until you approve it. Allow two working days. From $60.
+> Engraved to order: a name, initials or a date, up to 15 characters, along the top of the frame. After checkout a mock-up follows by email — nothing is engraved until you approve it. Allow three working days. From $60.
 > Complimentary delivery, duties and taxes included.
 
 Headline: `Engraved to order. From $60.` · Description: `Mock-up before engraving`
 
 Другий варіант, сценарій подарунка:
 > A racket for the partner who never misses Tuesday.
-> Bel Air Green, 12K carbon, with their name engraved on the frame. We email you the mock-up before we engrave, so the spelling is yours to confirm. Gift box in hunter green, signed card inside — $120 extra. Two working days, then on its way.
+> Bel Air Green, 12K carbon, with their name engraved on the frame. We email you the mock-up before we engrave, so the spelling is yours to confirm. Gift box in hunter green, velvet ribbon, your message inside — $120 extra. Three working days, then on its way.
 
 ---
 
@@ -199,7 +199,7 @@ Headline: `Engraved to order. From $60.` · Description: `Mock-up before engravi
 
 **Стало**
 > Ракетка з логотипом компанії — для команди або для одного гравця.
-> Гравіювання або повна лівреа за вашим макетом. Надішліть ідею — макет повертаємо за один робочий день, робота починається після вашого погодження. Кожна ракетка — в коробці hunter green з підписаною карткою.
+> Гравіювання або повна лівреа за вашим макетом. Надішліть ідею — макет повертаємо за один робочий день, робота починається після вашого погодження. Кожна ракетка — в коробці hunter green з оксамитовою стрічкою.
 > На фото — [що саме зроблено: логотип на Crown, імена гравців на Wing, партія N штук].
 
 ---
