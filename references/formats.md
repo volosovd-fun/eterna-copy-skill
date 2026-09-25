@@ -24,7 +24,7 @@
 **Reels/Stories:** текст на екрані ≤ 6 слів, один факт на кадр. Перший кадр — товар або ім'я на ракетці, не логотип.
 
 **Приклад, EN, гравіювання:**
-> Your name on the frame, in the same lettering as ours.
+> Your name on the racket, in the same lettering as ours.
 > Engraved to order: a name, initials or a date, up to 15 characters. A mock-up follows by email — nothing is engraved until you approve it. Three working days. From $60.
 > Complimentary delivery, duties and taxes included.
 Headline `Engraved to order. From $60.` · Description `Mock-up before engraving`
@@ -37,9 +37,9 @@ Headline `Bel Air Green · карбон 12K` · Description `Гарантія 2 
 
 **Приклад, EN, подарунок (сценарій):**
 > A racket for the partner who never misses Tuesday.
-> Bel Air Green, 12K carbon, with their name engraved on the frame. We email the mock-up before we engrave, so the spelling is yours to confirm. Gift box in hunter green, velvet ribbon, your message inside — $120.
+> Bel Air Green, 12K carbon, with their name engraved on the racket. We email the mock-up before we engrave, so the spelling is yours to confirm. Gift box in hunter green, velvet ribbon, your message inside — $120.
 > Three working days, then on its way. Delivery on us.
-Headline `Their name on the frame` · Description `Gift box with your message inside`
+Headline `Their name on the racket` · Description `Gift box with your message inside`
 
 ## 2. Google Ads — пошукові RSA
 

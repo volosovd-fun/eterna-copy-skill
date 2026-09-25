@@ -123,15 +123,15 @@
 - Немає доказу і сценарію. Чому людина має повірити, що гравіювання буде акуратним? Бо є ескіз і підтвердження — про це ні слова. (7, 8)
 
 **Стало**
-> Your name on the frame, in the same lettering as ours.
-> Engraved to order: a name, initials or a date, up to 15 characters, along the top of the frame. After checkout a mock-up follows by email — nothing is engraved until you approve it. Allow three working days. From $60.
+> Your name on the racket, in the same lettering as ours.
+> Engraved to order: a name, initials or a date, up to 15 characters, at the top of the racket. After checkout a mock-up follows by email — nothing is engraved until you approve it. Allow three working days. From $60.
 > Complimentary delivery, duties and taxes included.
 
 Headline: `Engraved to order. From $60.` · Description: `Mock-up before engraving`
 
 Другий варіант, сценарій подарунка:
 > A racket for the partner who never misses Tuesday.
-> Bel Air Green, 12K carbon, with their name engraved on the frame. We email you the mock-up before we engrave, so the spelling is yours to confirm. Gift box in hunter green, velvet ribbon, your message inside — $120 extra. Three working days, then on its way.
+> Bel Air Green, 12K carbon, with their name engraved on the racket. We email you the mock-up before we engrave, so the spelling is yours to confirm. Gift box in hunter green, velvet ribbon, your message inside — $120 extra. Three working days, then on its way.
 
 ---
 

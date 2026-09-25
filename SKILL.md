@@ -33,7 +33,7 @@ description: Правила сильного тексту для Eterna Sports �
 ### 1 · Користь — уперед
 Перший рядок називає, що людина отримує. Не бренд, не «зустрічайте», не атмосфера. У рекламі перший рядок — це і є заголовок.
 - ✗ *Meet Eterna Sports — designed to perform, crafted to stand out.*
-- ✓ *Your name on the frame, in the same lettering as ours.*
+- ✓ *Your name on the racket, in the same lettering as ours.*
 - ✗ *Ракетка з історією — вражаючий подарунок.*
 - ✓ *Ракетка з вашим іменем. Ескіз на пошту перед гравіюванням.*
 
